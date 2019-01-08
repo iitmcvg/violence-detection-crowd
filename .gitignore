@@ -1,0 +1,4 @@
+*.mp4
+C3D_tensorflow/c3d_ucf101_finetune_whole_iter_20000_TF.model
+Anom_detect/Trained/*
+Anom_detect/*.mat
